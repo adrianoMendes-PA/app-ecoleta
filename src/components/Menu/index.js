@@ -18,8 +18,8 @@ const styles = StyleSheet.create({
     container: {
         position: 'absolute',
         zIndex: 9,
-        width: 45,
-        height: 45,
+        width: 40,
+        height: 40,
         backgroundColor: '#FFF',
         alignItems: 'center',
         justifyContent: 'center',

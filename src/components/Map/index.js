@@ -66,7 +66,7 @@ export default function Mapa() {
                 snippet='TESTE'
             >
                 <View>
-                    <Icon name='location-pin' size={40} color="#FFF" />
+                    <Icon name='location-history' size={40} color="#FFF" />
                 </View>
                 <MapboxGL.Callout title='Você está aqui' />
             </MapboxGL.PointAnnotation>
